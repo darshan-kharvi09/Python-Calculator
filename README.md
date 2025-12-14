@@ -1,4 +1,4 @@
-# # Simple Python Calculator
+# Simple Python Calculator
 
 A beginner-friendly **command-line calculator** built using Python. This project performs basic arithmetic operations and is ideal for learning Python fundamentals and GitHub project structure.
 
@@ -15,10 +15,10 @@ A beginner-friendly **command-line calculator** built using Python. This project
 * Python 3
 
 ## Project Structure
-
-```
-calculator.py
-README.md
+Python-Simple-Calculator/
+│
+├── Calculator.py
+└── README.md
 ```
 
 ## How to Run the Project
@@ -68,6 +68,9 @@ Result: 15
 * Add GUI using Tkinter
 * Support more operations
 * Input validation
+
+## 📜 License
+This project is open-source and free to use.
 
 ## Author
 
